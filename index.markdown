@@ -46,3 +46,5 @@ If you have any questions, feel free to contact the workshop organizers:
 - **Workshop paper notifications**: September 24, 2021
 - **Camera-ready deadline and copyright forms**: October 1, 2021
 - **Workshop**: December 7, 2021
+
+All dates are 11:59pm Pacific Daylight Time (PDT).
