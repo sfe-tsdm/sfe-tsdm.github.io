@@ -21,9 +21,9 @@
 title: Systematic Feature Engineering for Time-Series Data Mining (SFE-TSDM)
 email: a.kempa-liehr@auckland.ac.nz;ben.fulcher@sydney.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  SFE-TSM Workshop at 21st IEEE International Conference on Data Mining (IEEE ICDM 2021) <br />
+  December 7-10, 2021 <br />
+  Auckland, New Zealand <br />
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
