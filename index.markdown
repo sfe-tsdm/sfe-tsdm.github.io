@@ -36,6 +36,11 @@ Paper submissions should be limited to a maximum of ten (10) pages, in the IEEE 
 
 The accepted workshop papers will be published in the dedicated ICDMW proceedings published by the IEEE Computer Society Press. 
 
+If you have any questions, feel free to contact the workshop organizers:
+- **Ben Fulcher**: ben.fulcher@sydney.edu.au
+- **Andreas W. Kempa-Liehr**: a.kempa-liehr@auckland.ac.nz
+
+
 ## Key Dates
 - **Workshop paper submissions**: September 3, 2021
 - **Workshop paper notifications**: September 24, 2021
