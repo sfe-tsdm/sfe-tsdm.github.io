@@ -1,5 +1,7 @@
 # Systematic Feature Engineering for Time-Series Data Mining (SFE-TSDM)
 
+## Background
+
 Time series are one of the most common data types in science, engineering, medicine, and economics.
 In many applications, not the sequential time-series values themselves, but their _properties_ (e.g., autocorrelation structure, entropy, outliers, etc.) are important for analyzing and understanding the respective systems from which they have been recorded.
 These time-series _features_ have the benefit that they are interpretable, provide valuable insights for domain experts and support explainable machine-learning models.
@@ -10,6 +12,8 @@ In recent years, a variety of time-series feature extraction software packages h
 - [feasts](https://feasts.tidyverts.org/) (R).
 
 These packages allow users to compute large numbers of univariate time-series features (e.g., up to 7700 features per time series in _hctsa_) by providing implementations of a wide variety of time-series analysis algorithms, including those developed in statistics, signal processing, time-series analysis, and non-linear dynamics.
+
+## Submissions to the workshop on *Systematic Feature Engineering for Time-Series Data Mining*
 
 The workshop on *Systematic Feature Engineering for Time-Series Data Mining* is organized as part of the
 [21st IEEE International Conference on Data Mining](https://icdm2021.auckland.ac.nz), which will be held from 7-10 December 2021 in Auckland, New Zealand.
@@ -39,6 +43,7 @@ If you have any questions, feel free to contact the workshop organizers:
 
 
 ## Key Dates
+
 - **Workshop paper submissions**: September 3, 2021.
 - **Workshop paper notifications**: September 24, 2021.
 - **Camera-ready deadline and copyright forms**: October 1, 2021.
