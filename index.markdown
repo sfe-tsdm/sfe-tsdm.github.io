@@ -6,10 +6,7 @@ Time series are one of the most common data types in science, engineering, medic
 In many applications, not the sequential time-series values themselves, but their _properties_ (e.g., autocorrelation structure, entropy, outliers, etc.) are important for analyzing and understanding the respective systems from which they have been recorded.
 These time-series _features_ have the benefit that they are interpretable, provide valuable insights for domain experts and support explainable machine-learning models.
 
-In recent years, a variety of time-series feature extraction software packages have been developed, including
-- [hctsa](https://github.com/benfulcher/hctsa) (Matlab),
-- [tsfresh](https://github.com/blue-yonder/tsfresh) (Python), and
-- [feasts](https://feasts.tidyverts.org/) (R).
+In recent years, a variety of time-series feature extraction software packages have been developed, including [hctsa](https://github.com/benfulcher/hctsa) (Matlab), [tsfresh](https://github.com/blue-yonder/tsfresh) (Python), and [feasts](https://feasts.tidyverts.org/) (R).
 
 These packages allow users to compute large numbers of univariate time-series features (e.g., up to 7700 features per time series in _hctsa_) by providing implementations of a wide variety of time-series analysis algorithms, including those developed in statistics, signal processing, time-series analysis, and non-linear dynamics.
 
