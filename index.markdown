@@ -14,6 +14,7 @@ These packages allow users to compute large numbers of univariate time-series fe
 
 The workshop on *Systematic Feature Engineering for Time-Series Data Mining* is organized as part of the
 [21st IEEE International Conference on Data Mining](https://icdm2021.auckland.ac.nz), which will be held from 7-10 December 2021 in Auckland, New Zealand.
+Due to the changing circumstances derived from the COVID-19 pandemic, the format may be updated to virtual only or a combination of virtual and in-person participation. Updates will be posted on this [website](https://icdm2021.auckland.ac.nz/attending/).
 
 The workshop seeks to connect the data-mining community with researchers and industry professionals using time-series feature engineering.
 
