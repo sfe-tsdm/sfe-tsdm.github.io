@@ -34,7 +34,7 @@ Authors are invited to submit original papers, which have not been published els
 Paper submissions should be limited to a maximum of ten (10) pages, in the IEEE 2-column format (https://icdm2021.auckland.ac.nz/cfp/), including the bibliography and any possible appendices. 
 Submissions longer than 10 pages will be rejected without review. 
 All submissions will be triple-blind reviewed by the Workshop Committee on the basis of technical quality, relevance to scope of the workshop, originality, significance, and clarity.
-Manuscripts must be submitted electronically in the online submission system (https://wi-lab.com/cyberchair/2021/icdm21/scripts/submit.php?subarea=S21). We do not accept email submissions.
+Manuscripts must be submitted electronically in the online submission system [https://wi-lab.com/cyberchair/2021/icdm21/scripts/submit.php?subarea=S21](https://wi-lab.com/cyberchair/2021/icdm21/scripts/submit.php?subarea=S21). We do not accept email submissions.
 
 The accepted workshop papers will be published in the dedicated ICDMW proceedings published by the IEEE Computer Society Press.
 
