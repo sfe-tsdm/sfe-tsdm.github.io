@@ -46,7 +46,7 @@ If you have any questions, feel free to contact the workshop organizers:
 
 ## Key Dates
 
-- **Workshop paper submissions**: September 10, 2021.
+- **Workshop paper submissions**: ~~September 10, 2021~~ September 10, 2021.
 - **Workshop paper notifications**: September 24, 2021.
 - **Camera-ready deadline and copyright forms**: October 1, 2021.
 - **Workshop**: December 7, 2021.
